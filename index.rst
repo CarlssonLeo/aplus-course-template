@@ -8,3 +8,6 @@ Other content is not visible in A+.
   :maxdepth: 1
 
   module01/index
+  assignment1/index
+  assignment2/index
+  assignment3/index

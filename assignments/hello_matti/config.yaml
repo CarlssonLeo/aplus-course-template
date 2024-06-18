@@ -1,0 +1,10 @@
+---
+view_type: access.types.stdasync.acceptFiles
+files:
+  - field: file1
+    name: functions.py
+
+container:
+  image: apluslms/grade-python:3.9-4.4-4.0
+  mount: assignments/hello_matti
+  cmd: graderutils

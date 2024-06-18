@@ -15,8 +15,8 @@ import os
 
 
 # -- Aplus configuration --------------------------------------------------
-course_open_date = '2022-01-10'
-course_close_date = '2022-05-31'
+course_open_date = '2023-01-10'
+course_close_date = '2025-05-31'
 questionnaire_default_submissions = 5
 program_default_submissions = 10
 default_max_group_size = 1
